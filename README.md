@@ -1,6 +1,8 @@
 # clustering-tendency
 clustering tendency
-Assistant Professor : 
+
+## Assistant Professor : 
 Dr. Mohammad Javad Fadaeieslam
-By : 
+
+### By : 
 Amir Shokri – Farshad Asgharzade – Sajad Dehghan – Amin Nazari
