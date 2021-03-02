@@ -9,7 +9,7 @@ Amir Shokri – Farshad Asgharzade – Sajad Dehghan – Amin Nazari
 
 #### Emails & st codes :
 mj.fadaei@gmail.com
-amirsh.nll@gmail.com - 9811920009
-Farshad_asgharzade@hotmail.com - 9811920004
-sajjad.dehghan.71275@gmail.com - 9811920023
-Aminnazari1995@hotmail.com - 9811920020
+amirsh.nll@gmail.com
+Farshad_asgharzade@hotmail.com
+sajjad.dehghan.71275@gmail.com
+Aminnazari1995@hotmail.com
